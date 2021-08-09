@@ -1,2 +1,5 @@
 # commit-estruturado
-Conceito e Prática sobre Estruturação de Commit
+
+Bem vindo ao commit-estruturado :tada:
+
+O repositório onde aprendemos os conceitos e práticas sobre Estruturação de Commit.
